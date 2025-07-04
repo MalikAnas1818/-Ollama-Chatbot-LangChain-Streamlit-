@@ -1,0 +1,4 @@
+langchain
+llama2
+streamlit
+pip install langchain-community
