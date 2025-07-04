@@ -1,4 +1,5 @@
-# 🤖 Ollama Chatbot (LangChain + Streamlit)
+<<<<<<<
+# 🤖 Ollama Chatbot 
 
 This is a simple AI chatbot project built using:
 
@@ -13,7 +14,7 @@ It is trained (prompted) to identify itself as an AI assistant built by **Muhamm
 ## 📦 Features
 
 - 💬 Ask any question using a text box
-- 🧠 Responses powered by `llama3` running through Ollama
+- 🧠 Responses powered by `llama3.2` running through Ollama
 - 🕘 Conversation history panel in the sidebar
 - 🔁 Reset button to clear conversation
 - ✅ Lightweight and easy to run on local machine
