@@ -1,4 +1,3 @@
-<<<<<<<
 # 🤖 Ollama Chatbot 
 
 This is a simple AI chatbot project built using:
@@ -71,4 +70,8 @@ Visit the link shown in the terminal (usually http://localhost:8501)
 # 🙋‍♂️ Author
 ## Muhammad Anis
 ### AI Agent Designer & Prompt Engineer
+
+
+
+https://github.com/user-attachments/assets/91bbfc4f-54ad-494e-a364-2ea24afdba16
 
