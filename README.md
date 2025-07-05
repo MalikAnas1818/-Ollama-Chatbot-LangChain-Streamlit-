@@ -54,6 +54,7 @@ Visit the link shown in the terminal (usually http://localhost:8501)
 
 ## 🔧 Project Structure
 📁 ollama-chatbot/
+
 ├── app.py               # Main Streamlit app
 
 ├── requirements.txt     # Python dependencies
